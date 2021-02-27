@@ -1,6 +1,7 @@
 {
-    "src2dstTxHash": "",
-    "dst2srcTxHash": "",
-    "accountAddress": "",
-    "validatorOprAddress": ""
+    "src2dstTxHash": "2D528C57D31BF28269E6F60BFE583842BDE321D50
+AECEB7C46F3FD7DC3D60FFB",
+    "dst2srcTxHash": "2AADC1FD4BA542E9E9AB9DDD7C578F2CCDFE95C6C955292049306010D80A7963",
+    "accountAddress": "regen:1ta4y8qdpcs92r0su3q45p45ls7z95en4mtldgl",
+    "validatorOprAddress": "regen:valoper1nelvlyq89phgaqjnsnn37au4g0cf9jv323teu5"
 }
